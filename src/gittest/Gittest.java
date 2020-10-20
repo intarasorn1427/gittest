@@ -18,6 +18,7 @@ public class Gittest {
        sayHello();
        sayhi();
        sayGoodbye();
+       sayHII();
        
     }
     public static void sayHello(){
@@ -31,4 +32,10 @@ public class Gittest {
     public static void sayGoodbye(){
         System.out.println("Goodbye");
     }
+    public static void sayHII(){
+        System.out.println("HII");
+        System.out.println("Retest");
+    }
+    
+    
 }
